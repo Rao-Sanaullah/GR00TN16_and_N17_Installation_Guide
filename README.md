@@ -2,7 +2,7 @@
 
 A complete, battle-tested installation guide for [NVIDIA Isaac GR00T N1.6 & N1.7](https://github.com/NVIDIA/Isaac-GR00T) — covering both WSL2 on Windows and Docker on Linux, including real fixes for issues not covered in the official docs.
 
-📖 **Full interactive guide → [index.html](https://rao-sanaullah.github.io/GR00TN1.7/)** (open via GitHub Pages)
+📖 **Full interactive guide → [index.html](https://rao-sanaullah.github.io/GR00TN16_and_N17_Installation_Guide/)** (open via GitHub Pages)
 
 ---
 
